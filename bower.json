@@ -1,0 +1,23 @@
+{
+  "name": "iso-countries",
+  "description": "ISO Country and Currency Codes",
+  "main": "index.js",
+  "authors": [
+    "Paul Smith <psmithuk@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/kreativgebiet/iso-countries",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

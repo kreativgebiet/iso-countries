@@ -1,7 +1,7 @@
 {
   "name": "iso-countries",
   "description": "ISO Country and Currency Codes",
-  "main": "index.js",
+  "main": "dist/countries.js",
   "authors": [
     "Paul Smith <psmithuk@gmail.com>"
   ],

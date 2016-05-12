@@ -386,9 +386,9 @@ AX:
   ioc: 
   latitude: ""
   longitude: ""
-  name: "Åland Islands"
+  name: "Aland Islands"
   names: 
-    - "Åland Islands"
+    - "Aland Islands"
   national_destination_code_lengths: []
   national_number_lengths: []
   national_prefix: ""

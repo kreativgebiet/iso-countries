@@ -319,9 +319,9 @@
   },
   "AX": {
     "value": "AX",
-    "name": "Åland Islands",
+    "name": "Aland Islands",
     "names": [
-      "Åland Islands"
+      "Aland Islands"
     ],
     "region": "Europe",
     "subregion": "Northern Europe",

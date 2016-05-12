@@ -2,6 +2,7 @@
   "name": "iso-countries",
   "description": "ISO Country and Currency Codes",
   "main": "dist/countries.js",
+  "version": "0.1.0",
   "authors": [
     "Paul Smith <psmithuk@gmail.com>"
   ],
